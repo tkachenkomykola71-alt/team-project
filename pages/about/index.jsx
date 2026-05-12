@@ -61,35 +61,19 @@ export const aboutData = [
     info: [
       {
         title: "UX/UI Designer - XYZ Company",
-        stage: "2012 - 2023",
+        stage: "2024 - 2025",
       },
       {
         title: "Web Developer - ABC Agency",
-        stage: "2010 - 2012",
+        stage: "2023 - 2024",
       },
       {
         title: "Intern - DEF Corporation",
-        stage: "2008 - 2010",
+        stage: "2020 - 2022",
       },
     ],
   },
-  {
-    title: "credentials",
-    info: [
-      {
-        title: "Web Development - ABC University, LA, CA",
-        stage: "2011",
-      },
-      {
-        title: "Computer Science Diploma - AV Technical Institute",
-        stage: "2009",
-      },
-      {
-        title: "Certified Graphic Designer - ABC Institute, Los Angeles, CA",
-        stage: "2006",
-      },
-    ],
-  },
+
 ];
 
 const About = () => {
@@ -129,7 +113,7 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            10 years ago, I begin freelancing as a developer. Since then, I've
+            5 years ago, I begin freelancing as a developer. Since then, I've
             done remote work for agencies, consulted for startups, and
             collabrated on digital products for business and consumer use.
           </motion.p>
