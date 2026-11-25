@@ -76,6 +76,7 @@ modern-portfolio/
     |-- globals.css
   |- .eslintrc.json
   |- .gitignore
+  |- init
   |- netlify.toml
   |- next.config.js
   |- package-lock.json
